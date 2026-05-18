@@ -10,3 +10,7 @@ Nabız, Kentteki sorunları daha hızlı çözmek için gelştirildi.
 - Gemini 2.5 alt tabanlı geliştirildi.
 - Gemini resmi analiz ederek sorun varmı yok mu tespiti yapıyor.
 
+## Kullanıcı Ekranı
+![kullanici](img/kullanici.png)
+## Belediye Ekranı
+![belediye](img/belediye.png)
