@@ -14,3 +14,8 @@ Nabız, Kentteki sorunları daha hızlı çözmek için gelştirildi.
 ![kullanici](img/kullanici.png)
 ## Belediye Ekranı
 ![belediye](img/belediye.png)
+
+## Proje Ekibi
+- Ali Rıza Çavusoğlu @alirzacavusoglu
+- Mehmet Alp Al @
+- Ekin Yılmaz @
