@@ -17,5 +17,5 @@ Nabız, Kentteki sorunları daha hızlı çözmek için gelştirildi.
 
 ## Proje Ekibi
 - Ali Rıza Çavusoğlu @alirzacavusoglu
-- Mehmet Alp Al @ekobb
-- Ekin Yılmaz @
+- Mehmet Alp Al @mhmtalpal
+- Ekin Yılmaz @Ekobb
