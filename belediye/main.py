@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # 1. API Anahtarı ve Gemini İstemcisi
-API_KEY = "AIzaSyA0j0c9pJW-22zvUz_TtKjLYVitVhN-97Y"
+API_KEY = "APİ_key"
 client = genai.Client(api_key=API_KEY)
 
 @app.get("/")
